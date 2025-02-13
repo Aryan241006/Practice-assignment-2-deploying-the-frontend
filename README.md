@@ -1,8 +1,19 @@
-# React + Vite
+# React Vite App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application built using Vite. The homepage displays my name and contact details.
 
-Currently, two official plugins are available:
+## Features
+- Built with React and Vite for fast performance.
+- Displays personal information (name and contact details).
+- Deployed on a free hosting service.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment
+The application is live at: https://practice-assignment-2-deploying-the-frontend.vercel.app/
+
+## Tech Stack
+- React
+- Vite
+- CSS (for basic styling)
+
+## Author
+Aryan Anand
